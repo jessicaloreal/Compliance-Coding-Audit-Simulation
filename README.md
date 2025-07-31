@@ -59,8 +59,3 @@ All clinical notes and data are **mock/simulated** but modeled on authentic docu
 This project uses **simulated clinical documentation and mock data** for educational and portfolio purposes. All scenarios are fictional but reflect realistic encounter structures and audit logic based on ICD-10-CM guidelines, CMS risk adjustment policy, and HIM best practices.
 
 ---
-
-## 📫 Contact
-
-For questions or collaboration:  
-**Loreal** – HIM professional specializing in compliance, interoperability, and audit strategy  
